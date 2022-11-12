@@ -11,5 +11,4 @@ Aplicação para criação de bolões da copa do mundo de 2022! desenvolvido dur
 ## Tecnologias
 TypeScript, React, Next.js, React Native, Expo, Node.js, Fastify, Prisma, entre outras...
 
-## Como executar
-Adicione o gerenciador de pacotes em ambas as pastas com o comando *"NPM INSTALL"* e execute o comando *"NPM RUN DEV"* nas mesmas.
+
